@@ -93,10 +93,10 @@ body  {
 }
   h1 {
     font-family: 'Gotham Rounded Bold';
-    font-weight: 500;
-    font-size: 24px;
+    font-weight: 700;
+    font-size: 30px;
     line-height: 1.1;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     }
 
 h2{
@@ -173,6 +173,7 @@ button{
     text-align: center;
     
 }
+
 .container-card .col-lg-12{
     max-width: 900px;
     margin: auto;
